@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on [Book Recommender System](https://github.com/muditkothari19/Machine-Learning/tree/main/Book%20Recommender%20System)
 
-- 👯 I’m looking to collaborate on **Student Placement Prediction**
-
-- 🤝 I’m looking for help with **Credit Card F**
+- 👯 I’m looking to collaborate on **Student Placement Prediction*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
