@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flask,django,etc**
 
-- 👨‍💻 All of my projects are available at [https://github.com/muditkothari19/Portfolio2.git](https://github.com/muditkothari19/Portfolio2.git)
+- 👨‍💻 All of my projects are available at [https://github.com/muditkothari19/Portfolio2.git](https://github.com/muditkothari19/)
 
 - 📝 I regularly write articles on [https://github.com/muditkothari19/Blogging.git](https://github.com/muditkothari19/Blogging.git)
 
