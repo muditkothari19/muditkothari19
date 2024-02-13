@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mudit Kothari</h1>
 <h3 align="center">A passionate Machine Learning & Backend developer from India</h3>
 
-<img align="right" alt="codeing" width="400" src=src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="right" alt="codeing" width="400" src="![image](https://github.com/muditkothari19/muditkothari19/assets/127036380/7888a241-7257-44f2-a989-3618741111c1)
+">
+">
 
 - 🔭 I’m currently working on [Chatbot](Running)
 
