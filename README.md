@@ -1,31 +1,57 @@
-<h1 align="center">Hi 👋, I'm Mudit Kothari</h1>
-<h3 align="center">A passionate Machine Learning & Backend developer from India</h3>
+# Hi 👋, I'm Mudit Kothari
 
-<img align="right" alt="codeing" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-">
+### Backend & AI/ML Engineer — building intelligent applications and the systems behind them
 
-- 🔭 I’m currently working on [Chatbot](Running)
+Machine Learning and backend developer from Jaipur, India. I build ML-powered applications and the APIs, data layers, and web backends that serve them. Focused on shipping clean, working code.
 
-- 🌱 I’m currently learning **Flask,django,etc**
+- 🔭 Currently working on: **a chatbot project** (AI/NLP)
+- 🌱 Currently learning: **Flask, Django & backend system design**
+- 💬 Ask me about: **Python, Machine Learning, Java, SQL**
+- 📫 Reach me on: **[LinkedIn](https://www.linkedin.com/in/muditkothari003/)**
+- 📄 Resume: **[View here](https://drive.google.com/file/d/1x84ds2AtBGbiUWcOtD6pXoSOy8rJe-hF/view?usp=sharing)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/muditkothari19/Portfolio2.git](https://github.com/muditkothari19/)
+---
 
-- 📝 I regularly write articles on [https://github.com/muditkothari19/Blogging.git](https://github.com/muditkothari19/Blogging.git)
+### 🛠️ Tech Stack
 
-- 💬 Ask me about **Python,java,Machine learning,mysql etc**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- 📫 How to reach me **https://www.linkedin.com/in/muditkothari003/**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1x84ds2AtBGbiUWcOtD6pXoSOy8rJe-hF/view?usp=sharing](https://drive.google.com/file/d/1x84ds2AtBGbiUWcOtD6pXoSOy8rJe-hF/view?usp=sharing)
+### 📊 GitHub Stats
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muditkothari003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muditkothari003" height="30" width="40" /></a>
-<a href="https://instagram.com/muditkothari19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muditkothari19" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@muditkothari003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@muditkothari003" height="30" width="40" /></a>
-</p>
+![Mudit's GitHub stats](https://github-readme-stats.vercel.app/api?username=muditkothari19&show_icons=true&theme=tokyonight&count_private=true)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muditkothari19&layout=compact&theme=tokyonight&langs_count=8)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muditkothari19&" alt="muditkothari19" /></p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muditkothari19&theme=tokyonight)
+
+---
+
+### 🚀 Featured Projects
+
+**[Book Recommendation System](https://github.com/muditkothari19/Book-Recommendation-system)** — ML recommender that suggests books based on user preferences and ratings.
+`Python` · `scikit-learn` · `Pandas`
+
+**[Machine Learning](https://github.com/muditkothari19/Machine-Learning)** — Collection of ML models and experiments across classification, regression, and data analysis.
+`Python` · `Jupyter` · `scikit-learn`
+
+**[Login–Signup System](https://github.com/muditkothari19/login-signup)** — Full authentication flow with secure user registration and login.
+`JavaScript` · `Backend` · `Auth`
+
+---
+
+### 🤝 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muditkothari003)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/@muditkothari003)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muditkothari19)
