@@ -1,6 +1,5 @@
-from pathlib import Path
 
-readme = r'''<div align="center">
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Mudit+Kothari+%F0%9F%91%8B;Full-Stack+AI%2FML+Engineer;Building+Intelligent+AI+Systems;Turning+Complex+Workflows+Into+Automation" alt="Typing introduction"/>
 
