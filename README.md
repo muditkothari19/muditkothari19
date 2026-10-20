@@ -1,5 +1,6 @@
+from pathlib import Path
 
-<div align="center">
+readme = r'''<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Mudit+Kothari+%F0%9F%91%8B;Full-Stack+AI%2FML+Engineer;Building+Intelligent+AI+Systems;Turning+Complex+Workflows+Into+Automation" alt="Typing introduction"/>
 
@@ -154,6 +155,18 @@ I'm a **Full-Stack AI/ML Engineer at FBSPL**, based in Udaipur, India. I build A
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muditkothari19/muditkothari19/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muditkothari19/muditkothari19/output/github-snake.svg"/>
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/muditkothari19/muditkothari19/output/github-snake.svg"/>
+  </picture>
+</div>
+
+---
+
 ## 🌱 Currently Exploring
 
 - Agentic AI and multi-step AI workflows
@@ -179,4 +192,4 @@ I'm a **Full-Stack AI/ML Engineer at FBSPL**, based in Udaipur, India. I build A
 '''
 path = Path("/mnt/data/README.md")
 path.write_text(readme, encoding="utf-8")
-print(f"Created complete README.md: {path} ({path.stat().st_size:,} bytes)")
+print(f"Created full README.md with Contribution Snake section: {path} ({path.stat().st_size:,} bytes)")
