@@ -35,67 +35,65 @@ I'm a **Full-Stack AI/ML Engineer at FBSPL**, based in Udaipur, India. I build A
 - ☁️ **Deployment:** Docker, AWS, databases, and production application support
 - 🎓 **Education:** Master of Computer Applications (MCA), JECRC University
 
-```python
-class MuditKothari:
-    """Full-Stack AI/ML Engineer @ FBSPL."""
-
-    role = "Full-Stack AI/ML Engineer"
-    company = "FBSPL"
-    location = "Udaipur, India"
-
-    building = [
-        "Production-Ready AI Systems",
-        "LLM-Powered Applications",
-        "Intelligent Document Pipelines",
-        "Scalable Backend Services",
-    ]
-
-    expertise = {
-        "AI": ["Generative AI", "Agentic AI", "RAG", "LLMs"],
-        "Backend": ["Python", "FastAPI", "Flask", "REST APIs"],
-        "Data": ["MongoDB", "PostgreSQL", "Vector Search"],
-    }
-
-    philosophy = "Turn complex problems into intelligent solutions."
-
-    def mission(self):
-        return "Build. Automate. Scale. Keep improving."
-```
-
 ---
 
-## ⚡ What I Build
+## ⚡ What Drives Me
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 Generative AI</h3>
-      LLM-powered applications, prompt engineering, retrieval pipelines, and intelligent automation.
-      <br/><br/>
-      <code>Gemini</code> <code>OpenAI APIs</code> <code>RAG</code> <code>LangChain</code>
+    <td width="33%" align="center" valign="top">
+      <h3>🚀 Build</h3>
+      Production-ready AI applications that solve real problems.
     </td>
-    <td width="50%" valign="top">
-      <h3>📄 Document Intelligence</h3>
-      AI-driven extraction and normalization for complex commercial insurance documents.
-      <br/><br/>
-      <code>Python</code> <code>PDF Processing</code> <code>NLP</code> <code>Structured Data</code>
+    <td width="33%" align="center" valign="top">
+      <h3>🤖 Automate</h3>
+      Turn complex workflows into intelligent, efficient solutions.
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚙️ Backend Engineering</h3>
-      APIs, service integrations, modular architectures, and reliable data-processing workflows.
-      <br/><br/>
-      <code>FastAPI</code> <code>Flask</code> <code>REST APIs</code> <code>Microservices</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔎 Retrieval & Data</h3>
-      Turning unstructured information into searchable, organized, and actionable knowledge.
-      <br/><br/>
-      <code>Embeddings</code> <code>Vector Search</code> <code>MongoDB</code> <code>PostgreSQL</code>
+    <td width="33%" align="center" valign="top">
+      <h3>⚙️ Scale</h3>
+      Engineer reliable backends and AI pipelines.
     </td>
   </tr>
 </table>
+
+<p align="center"><strong>My philosophy:</strong> Build thoughtfully. Automate intelligently. Ship reliably.</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 AI / Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Generative%20AI-8B5CF6?style=for-the-badge" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
+  <img src="https://img.shields.io/badge/RAG-6D28D9?style=for-the-badge" alt="RAG"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+</p>
+
+### 💻 Languages & Backend
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=for-the-badge" alt="REST APIs"/>
+</p>
+
+### 🗄️ Databases, Cloud & Tools
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" alt="Qdrant"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</p>
 
 ---
 
@@ -146,43 +144,6 @@ class MuditKothari:
 
 ---
 
-## 🧰 Tech Stack
-
-### AI / Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/Generative%20AI-8B5CF6?style=for-the-badge" alt="Generative AI"/>
-  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
-  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
-  <img src="https://img.shields.io/badge/RAG-6D28D9?style=for-the-badge" alt="RAG"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-</p>
-
-### Languages & Backend
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=for-the-badge" alt="REST APIs"/>
-</p>
-
-### Databases, Cloud & Tools
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" alt="Qdrant"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</p>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -217,7 +178,6 @@ class MuditKothari:
   <em>Build thoughtfully. Automate intelligently. Ship reliably.</em>
 </div>
 '''
-
 path = Path("/mnt/data/README.md")
 path.write_text(readme, encoding="utf-8")
 print(f"Created complete README.md: {path} ({path.stat().st_size:,} bytes)")
