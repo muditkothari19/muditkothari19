@@ -37,19 +37,29 @@ I'm a **Full-Stack AI/ML Engineer at FBSPL**, based in Udaipur, India. I build A
 
 ```python
 class MuditKothari:
+    """Full-Stack AI/ML Engineer @ FBSPL."""
+
     role = "Full-Stack AI/ML Engineer"
     company = "FBSPL"
-    location = "India"
+    location = "Udaipur, India"
 
-    interests = [
-        "Generative AI",
-        "Agentic AI",
-        "RAG & LLM Applications",
-        "Document Intelligence",
-        "Backend Engineering",
+    building = [
+        "Production-Ready AI Systems",
+        "LLM-Powered Applications",
+        "Intelligent Document Pipelines",
+        "Scalable Backend Services",
     ]
 
-    philosophy = "Build useful things. Make them reliable."
+    expertise = {
+        "AI": ["Generative AI", "Agentic AI", "RAG", "LLMs"],
+        "Backend": ["Python", "FastAPI", "Flask", "REST APIs"],
+        "Data": ["MongoDB", "PostgreSQL", "Vector Search"],
+    }
+
+    philosophy = "Turn complex problems into intelligent solutions."
+
+    def mission(self):
+        return "Build. Automate. Scale. Keep improving."
 ```
 
 ---
@@ -210,4 +220,4 @@ class MuditKothari:
 
 path = Path("/mnt/data/README.md")
 path.write_text(readme, encoding="utf-8")
-print(f"Created {path} ({path.stat().st_size:,} bytes)")
+print(f"Created complete README.md: {path} ({path.stat().st_size:,} bytes)")
